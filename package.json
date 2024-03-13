@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@sveltejs/vite-plugin-svelte": "^3.0.2",
+    "svelte": "^4.2.12",
+    "vite": "^5.1.6"
+  },
+  "name": "learnpy",
+  "version": "1.0.0",
+  "description": "Django + sveltejs",
+  "main": "assets/main.js",
+  "type":"module",
+  "scripts": {
+    "dev": "vite",
+    "preview": "vite preview",
+    "build": "vite build"
+  },
+  "author": "",
+  "license": "ISC"
+}
